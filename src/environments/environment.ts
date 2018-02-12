@@ -10,4 +10,13 @@
 
 export const environment = {
   production: false,
+  firebaseConfig: {
+    apiKey: "AIzaSyD4X1cKoTrB3pTDAKk7hn01cbl9I5ZL_KY",
+    authDomain: "ng-x-d20f7.firebaseapp.com",
+    databaseURL: "https://ng-x-d20f7.firebaseio.com",
+    projectId: "ng-x-d20f7",
+    storageBucket: "",
+    messagingSenderId: "598585964313"
+}
 };
+
